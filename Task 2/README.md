@@ -1,10 +1,10 @@
-#Task 2 -- Ansible
+# Task 2 -- Ansible
 
->Task name:
+## Task name:
 
 Manage WebServers through Ansible.
 
->Task description:
+## Task description:
 
 Write the Ansible script to install and test the web server with ping command in a single playbook. Choose either Apache or Nginx server based on your own preference.
 
@@ -14,7 +14,7 @@ Write the Ansible script to install and test the web server with ping command in
 
 ● Take screenshots indicating the success of your actions and save script files and related docs. 
 
->Task preparation
+## Task preparation
 
 Enable the SSH server.
 
@@ -47,7 +47,7 @@ Check if Ansible can communicate with the webserver
 ![commu](https://user-images.githubusercontent.com/58246129/192382185-9f73c1c1-338a-4844-8698-8b7f50c778b7.png)
 
 
->Task implementation 
+## Task implementation 
 
 Creating Ansible Playbook to Automate Web Server Installation
 
