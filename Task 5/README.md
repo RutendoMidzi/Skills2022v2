@@ -1,7 +1,7 @@
 # Task 5 – Programming and Unit Testing (20 points)
 
 ## Task name:
-Unit testing
+Unit testing.
 
 ## Task description:
 Create a unittest script in Python that asserts the output of all the functions in the given Python module. Write the code for the module and
