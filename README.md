@@ -7,8 +7,7 @@ There are practical tasks about the following topics:
 4. Jenkins
 5. Programming and Unit testing
 Required score to pass: 60/100
-Create a README.md document in which you concisely document all the tasks using
-the following structure for each task:
+Create a README.md document in which you concisely document all the tasks using the following structure for each task:
 
 ● Task name => name of the task
 
@@ -20,24 +19,17 @@ the following structure for each task:
 
 ● Task verification => proof of the quality of the result (Screenshots)(Task1Screens)
 
-At the end of the Skill exam, you will have all this information updated in the GitHub.
-The details of the particular tasks are explained in the following pages.
+At the end of the Skill exam, you will have all this information updated in the GitHub. The details of the particular tasks are explained in the following pages.
 
-
-# Task 
-# ----------------------------
 
 # Task 1:  Manage GitHub scripts and documents
 ### Task description:
-Create a folder “Skills2022v2” in your DEVASC virtual machine and start a git
-repository
+Create a folder “Skills2022v2” in your DEVASC virtual machine and start a git repository
 
 
 # Task 2: Manage Webservers through Ansible.
 ### Task description:
-Write the Ansible script to install and test the webserver with ping command
-in a single playbook. Choose either Apache or Nginx server based on your own
-preference
+Write the Ansible script to install and test the webserver with ping command in a single playbook. Choose either Apache or Nginx server based on your own preference
 
 # Task 3: Manage Docker microservices
 ### Task description:
@@ -49,5 +41,4 @@ Create a Jenkins pipeline
 
 # Task 5: Unit testing
 ### Task description:
-Create a unittest script in Python that asserts the output of all the
-functions in the given Python module
+Create a unittest script in Python that asserts the output of all the functions in the given Python module
