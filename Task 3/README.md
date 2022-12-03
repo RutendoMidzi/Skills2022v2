@@ -1,3 +1,13 @@
+# Task 3 -- Docker (25 points)
+## Task name:
+Manage Docker microservices
+## Task description:
+Create a docker microservice
+● Create a Docker “alpine server” (from the Docker Hub)
+
+● Take screenshots indicating the success of your actions and save script files and related docs. 
+
+
 Docker
 
 
